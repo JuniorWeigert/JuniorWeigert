@@ -1,6 +1,6 @@
 ## <div align="left">**Hi, I'm Jose Roberto, a full-stack developer** 👨‍💻 </div>
 ### About Me:
-<p>I'm 26 years old, from Curitiba, Parana - Brazil.</br>
+<p>I'm 26 years old, from Curitiba, Paraná - Brazil.</br>
 I'm fascinated by technology. I've been involved in technology all my life.</br>
 
 - 🔭 I’m currently working at [@Zhavia](https://github.com/grupo-zhavia)
